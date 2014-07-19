@@ -47,6 +47,10 @@
                 "type": "vcs",
                 "url": "git@github.com:oat-sa/qti-sdk.git"
         },
+        {
+                "type": "vcs",
+                "url": "git@github.com:oat-sa/keyvalue-dynamodb.git"
+        },
 	{
 		"type": "vcs",
 		"url": "git@github.com:oat-sa/extension-generis-hard.git"
