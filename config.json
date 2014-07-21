@@ -57,8 +57,8 @@
 	}
 	],
 	"name": "oat-sa Repository",
-	"require-dependencies": true,
-	"require-dev-dependencies": true,
+	"require-dependencies": false,
+	"require-dev-dependencies": false,
 	"homepage":"http://packages.taocloud.org/",
 	 "require-all": true
 
