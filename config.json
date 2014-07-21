@@ -59,7 +59,7 @@
 	"name": "oat-sa Repository",
 	"require-dependencies": true,
 	"require-dev-dependencies": true,
-	"homepage":"http://build.taotesting.com/packages/",
+	"homepage":"http://packages.taocloud.org/",
 	 "require-all": true
 
 }
