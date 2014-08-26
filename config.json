@@ -54,6 +54,63 @@
 	{
 		"type": "vcs",
 		"url": "git@github.com:oat-sa/extension-generis-hard.git"
+	},
+	{
+		"type": "vcs",
+		"url": "git@github.com:oat-sa/extension-tao-community.git"
+	},
+	{
+		"type": "vcs",
+		"url": "git@github.com:oat-sa/extension-tao-funcacl.git"
+	},
+	
+	{
+		"type": "vcs",
+		"url": "git@github.com:oat-sa/extension-tao-itemhtml.git"
+	},
+	{
+		"type": "vcs",
+		"url": "git@github.com:oat-sa/extension-tao-itemhtml.git"
+	},
+	{
+		"type": "vcs",
+		"url": "git@github.com:oat-sa/extension-tao-itemqti.git"
+	},
+	{
+		"type": "vcs",
+		"url": "git@github.com:oat-sa/extension-tao-itemqti-pci.git"
+	},
+	{
+		"type": "vcs",
+		"url": "git@github.com:oat-sa/extension-tao-itemqti-pci.git"
+	},
+	{
+		"type": "vcs",
+		"url": "git@github.com:oat-sa/extension-tao-testqti.git"
+	},
+	{
+		"type": "vcs",
+		"url": "git@github.com:oat-sa/extension-tao-testwf.git"
+	},
+	{
+		"type": "vcs",
+		"url": "git@github.com:oat-sa/extension-tao-wfengine.git"
+	},
+	{
+		"type": "vcs",
+		"url": "git@github.com:oat-sa/extension-tao-outcome.git"
+	},
+	{
+		"type": "vcs",
+		"url": "git@github.com:oat-sa/extension-tao-outcomerdf.git"
+	},
+	{
+		"type": "vcs",
+		"url": "git@github.com:oat-sa/extension-tao-deliverysimple.git"
+	},
+	{
+		"type": "vcs",
+		"url": "git@github.com:oat-sa/extension-tao-filemanager.git"
 	}
 	],
 	"name": "oat-sa Repository",
