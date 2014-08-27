@@ -113,6 +113,9 @@
 		"url": "git@github.com:oat-sa/extension-tao-filemanager.git"
 	}
 	],
+	"archive": {
+        	"directory": "dist"
+	},
 	"name": "oat-sa Repository",
 	"require-dependencies": false,
 	"require-dev-dependencies": false,
