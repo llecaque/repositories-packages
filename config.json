@@ -94,6 +94,14 @@
 	},
 	{
 		"type": "vcs",
+		"url": "git@github.com:oat-sa/extension-tao-wfauthoring.git"
+	},
+	{
+		"type": "vcs",
+		"url": "git@github.com:oat-sa/extension-tao-testwfauthoring.git"
+	},
+	{
+		"type": "vcs",
 		"url": "git@github.com:oat-sa/extension-tao-wfengine.git"
 	},
 	{
@@ -106,7 +114,27 @@
 	},
 	{
 		"type": "vcs",
+		"url": "git@github.com:oat-sa/extension-tao-campaign.git"
+	},
+	{
+		"type": "vcs",
 		"url": "git@github.com:oat-sa/extension-tao-deliverysimple.git"
+	},
+	{
+		"type": "vcs",
+		"url": "git@github.com:oat-sa/extension-tao-devtools.git"
+	},
+	{
+		"type": "vcs",
+		"url": "git@github.com:oat-sa/extension-tao-ontobrowser.git"
+	},
+	{
+		"type": "vcs",
+		"url": "git@github.com:oat-sa/extension-tao-lti.git"
+	},
+	{
+		"type": "vcs",
+		"url": "git@github.com:oat-sa/extension-tao-ltideliveryprovider.git"
 	},
 	{
 		"type": "vcs",
