@@ -2,7 +2,7 @@
 	"repositories": [
 	{
 		"type": "vcs",
-			"url": "http://clearfw.googlecode.com/svn/branches/taoClearFw"
+			"url": "git@github.com:oat-sa/clerfw"
 	},
 	{
 		"type": "vcs",
@@ -103,6 +103,10 @@
 	{
 		"type": "vcs",
 		"url": "git@github.com:oat-sa/extension-tao-wfengine.git"
+	},
+		{
+		"type": "vcs",
+		"url": "git@github.com:oat-sa/extension-tao-dac-simple.git"
 	},
 	{
 		"type": "vcs",
