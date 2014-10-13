@@ -139,6 +139,14 @@
 	{
 		"type": "vcs",
 		"url": "git@github.com:oat-sa/extension-tao-filemanager.git"
+	},
+	{
+		"type": "vcs",
+		"url": "git@github.com:oat-sa/extension-tao-temqti-pci.git"
+	},
+	{
+		"type": "vcs",
+		"url": "git@github.com:oat-sa/extension-tao-temqti-pic.git"
 	}
 	],
 	"archive": {
