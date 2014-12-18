@@ -2,7 +2,7 @@
 	"repositories": [
 	{
 		"type": "vcs",
-			"url": "git@github.com:oat-sa/clerfw"
+			"url": "git@github.com:oat-sa/clearfw"
 	},
 	{
 		"type": "vcs",
