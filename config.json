@@ -1,329 +1,228 @@
 {
-	"repositories": [
-	{
-		"type": "vcs",
-			"url": "git@github.com:oat-sa/clearfw.git"
-	},
-	{
-		"type": "vcs",
-		"url": "git@github.com:oat-sa/oatbox-extension-installer.git"
-	},
-	{
-		"type": "vcs",
-		"url": "git@github.com:oat-sa/tao-core.git"
-	},
-	{
-		"type": "vcs",
-		"url": "git@github.com:oat-sa/generis.git"
-	},
-	{
-		"type": "vcs",
-		"url": "git@github.com:oat-sa/extension-tao-testtaker.git"
-	},
-        {
-                "type": "vcs",
-                "url": "git@github.com:oat-sa/extension-tao-group.git"
-        },
-        {
-                "type": "vcs",
-                "url": "git@github.com:oat-sa/extension-tao-item.git"
-        },
-        {
-                "type": "vcs",
-                "url": "git@github.com:oat-sa/extension-tao-lti.git"
-        },
-        {
-                "type": "vcs",
-                "url": "git@github.com:oat-sa/extension-tao-delivery.git"
-        },        {
-                "type": "vcs",
-                "url": "git@github.com:oat-sa/extension-tao-test.git"
-        },
-        {
-                "type": "vcs",
-                "url": "git@github.com:oat-sa/extension-tao-resultserver.git"
-        },
-        {
-                "type": "vcs",
-                "url": "git@github.com:oat-sa/qti-sdk.git"
-        },
-        {
-                "type": "vcs",
-                "url": "git@github.com:oat-sa/keyvalue-dynamodb.git"
-        },
-	{
-		"type": "vcs",
-		"url": "git@github.com:oat-sa/extension-generis-hard.git"
-	},
-	{
-		"type": "vcs",
-		"url": "git@github.com:oat-sa/extension-tao-community.git"
-	},
-	{
-		"type": "vcs",
-		"url": "git@github.com:oat-sa/extension-tao-funcacl.git"
-	},
-	
-	{
-		"type": "vcs",
-		"url": "git@github.com:oat-sa/extension-tao-itemhtml.git"
-	},
-	{
-		"type": "vcs",
-		"url": "git@github.com:oat-sa/extension-tao-itemhtml.git"
-	},
-	{
-		"type": "vcs",
-		"url": "git@github.com:oat-sa/extension-tao-itemqti.git"
-	},
-	{
-		"type": "vcs",
-		"url": "git@github.com:oat-sa/extension-tao-itemqti-pci.git"
-	},
-	{
-		"type": "vcs",
-		"url": "git@github.com:oat-sa/extension-tao-itemqti-pci.git"
-	},
-	{
-		"type": "vcs",
-		"url": "git@github.com:oat-sa/extension-tao-testqti.git"
-	},
-	{
-		"type": "vcs",
-		"url": "git@github.com:oat-sa/extension-tao-testwf.git"
-	},
-	{
-		"type": "vcs",
-		"url": "git@github.com:oat-sa/extension-tao-wfauthoring.git"
-	},
-	{
-		"type": "vcs",
-		"url": "git@github.com:oat-sa/extension-tao-testwfauthoring.git"
-	},
-	{
-		"type": "vcs",
-		"url": "git@github.com:oat-sa/extension-tao-wfengine.git"
-	},
-		{
-		"type": "vcs",
-		"url": "git@github.com:oat-sa/extension-tao-dac-simple.git"
-	},
-	{
-		"type": "vcs",
-		"url": "git@github.com:oat-sa/extension-tao-outcome.git"
-	},
-	{
-		"type": "vcs",
-		"url": "git@github.com:oat-sa/extension-tao-outcomerdf.git"
-	},
-	{
-		"type": "vcs",
-		"url": "git@github.com:oat-sa/extension-tao-campaign.git"
-	},
-	{
-		"type": "vcs",
-		"url": "git@github.com:oat-sa/extension-tao-deliverysimple.git"
-	},
-	{
-		"type": "vcs",
-		"url": "git@github.com:oat-sa/extension-tao-devtools.git"
-	},
-	{
-		"type": "vcs",
-		"url": "git@github.com:oat-sa/extension-tao-ontobrowser.git"
-	},
-	{
-		"type": "vcs",
-		"url": "git@github.com:oat-sa/extension-tao-lti.git"
-	},
-	{
-		"type": "vcs",
-		"url": "git@github.com:oat-sa/extension-tao-ltideliveryprovider.git"
-	},
-	{
-		"type": "vcs",
-		"url": "git@github.com:oat-sa/extension-tao-filemanager.git"
-	},
-
-	{
-			"type" : "vcs",
-			"url" : "git@github.com:jbout/easyrdf"
-	},
-	{
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/irt-test.git"
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/clearfw.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/oatbox-extension-installer.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/tao-core.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/generis.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-testtaker.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-group.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-item.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-lti.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-delivery.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-test.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-resultserver.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/qti-sdk.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/keyvalue-dynamodb.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-generis-hard.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-community.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-funcacl.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-itemhtml.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-itemhtml.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-itemqti.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-itemqti-pci.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-itemqti-pci.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-testqti.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-testwf.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-wfauthoring.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-testwfauthoring.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-wfengine.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-dac-simple.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-outcome.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-outcomerdf.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-campaign.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-deliverysimple.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-devtools.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-ontobrowser.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-lti.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-ltideliveryprovider.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-filemanager.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:jbout/easyrdf"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/generis-auth-ldap.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/lib-tao-qti.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-outcomekeyvalue.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-outcomelti.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-testlti.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-outcomeudp.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-update.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/lib-tao-controllermap.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/select2.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-outcomerds.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-itemqti-pic.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-talk.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-outcomeui.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/jig.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/extension-tao-mediamanager.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/lib-tao-solarium.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:oat-sa/ZendSearch.git"
+    }
+  ],
+  "archive": {
+    "directory": "dist"
   },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/random-test-engine.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/extension-experimental-ekstera.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/extension-experimental-kutimo.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/package-tao.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/generis-auth-ldap.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/xsd.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/repositories-packages.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/repositories-packages-utils.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/lib-tao-qti.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/extension-tao-outcomekeyvalue.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/extension-tao-outcomelti.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/extension-tao-testlti.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/extension-tao-outcomeudp.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/extension-tao-update.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/lib-tao-controllermap.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/package-build.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/select2.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/package-build-js.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/package-build-tag.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/phing-task-tao.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/phing-task-composer.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/tao-windows-install.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/extension-tao-outcomerds.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/raphael.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/extension-tao-itemqti-pic.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/g.raphael.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/extension-generis-hard-pg.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/extension-tao-talk.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/extension-tao-outcomeui.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/jig.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/MathJax.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/tao-user-guide.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/doc-converter.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/extension-tao-mediamanager.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/ontology-gmdb.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/generis-core.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/lib-tao-solarium.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/utils-jmeter.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/ZendSearch.git"
-  },
-  {
-    "type": "vcs",
-    "url": "git@github.com:oat-sa/extension-tao-booklet.git"
-  }
-
-	],
-	"archive": {
-        	"directory": "dist"
-	},
-	"name": "oat-sa Repository",
-	"require-dependencies": false,
-	"require-dev-dependencies": false,
-	"homepage":"http://packages.taocloud.org/",
-	 "require-all": true
-
+  "name": "oat-sa Repository",
+  "require-dependencies": false,
+  "require-dev-dependencies": false,
+  "homepage": "http://packages.taocloud.org/",
+  "require-all": true
 }
-
-
