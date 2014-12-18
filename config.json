@@ -150,11 +150,11 @@
 	},
 	{
 			"type" : "vcs",
-			"url" : "https://github.com/jbout/easyrdf"
+			"url" : "git@github.com:jbout/easyrdf"
 		},
 	{
 		"type": "vcs",
-		"url": "git@github.com:oat-sa/extension-tao-temqti-pic.git"
+		"url": "git@github.com:oat-sa/extension-tao-itemqti-pic.git"
 	}
 	],
 	"archive": {
